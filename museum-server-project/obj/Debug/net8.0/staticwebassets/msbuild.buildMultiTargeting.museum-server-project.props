@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\museum-server-project.props" />
+</Project>

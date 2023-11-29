@@ -1,0 +1,6 @@
+@museum_server_project_HostAddress = http://localhost:5133
+
+GET {{museum_server_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
